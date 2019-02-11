@@ -1,10 +1,6 @@
 #include <stdio.h>
 int main(){
 daf
-sdef asd
-f asdf
- das
- ffasd
- fsad
+sdef asd第三种解决方案
 
 }
