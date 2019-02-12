@@ -44,6 +44,6 @@ ssh-keygen -t rsa -C "xxx@xx.com"
 - `git rm xx` 从git仓库中删除掉不需要的文件
 
 ## **注意事项**
-- 多查资料,这里是git官方教程，非常好读，中文的 [Git官方教程]("https://git-scm.com/book/zh/v2")
+- 多查资料,这里是git官方教程，非常好读，中文的 Git官方教程 https://git-scm.com/book/zh/v2
 - 写这篇readme的语法叫做markdown，很好学。
-- 现在需要熟悉的是git基本操作，但是看看分支开发思想的内容也不错[源代码主干分支开发四大模式]("https://blog.csdn.net/zhangmike/article/details/38613429")
+- 现在需要熟悉的是git基本操作，但是看看分支开发思想的内容也不错【源代码主干分支开发四大模式】https://blog.csdn.net/zhangmike/article/details/38613429
